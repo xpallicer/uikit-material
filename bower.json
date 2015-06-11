@@ -1,0 +1,9 @@
+{
+  "name": "uikittheming",
+  "dependencies": {
+    "jquery": "latest",
+    "uikit": "latest",
+    "codemirror": "latest",
+	"marked": "latest"
+  }
+}
